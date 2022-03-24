@@ -15,7 +15,7 @@ setup(
     url='https://github.com/kota7/sqljob',
     download_url='https://github.com/kota7/sqljob/archive',
     long_description=readme,
-    long_description_content_type="text/markdown"
+    long_description_content_type="text/markdown",
 
     packages=['sqljob'],
     install_requires=['pandas', 'sqlalchemy'],
